@@ -39,7 +39,6 @@ def calculator():
       num1 = answer
     else:
       continue_operation = False
-      clear()
       calculator()
 calculator()    
   
